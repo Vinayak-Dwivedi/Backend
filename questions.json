@@ -1,0 +1,823 @@
+{
+    "Easy": [{
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "The character Plum from &quot;No Game No Life&quot; is of what race?",
+            "correct_answer": "Dhampir",
+            "incorrect_answers": ["Fl&uuml;gel", "Imanity", "Seiren"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which Roman Emperor led the Roman Empire to reach its maximum territorial extent?",
+            "correct_answer": "Trajan",
+            "incorrect_answers": [
+                "Julius Caesar",
+                "Claudius",
+                "Constantine the Great"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What is Everest&#039;s favorite food in the Nickelodeon/Nick Jr. series &quot;PAW Patrol&quot;?",
+            "correct_answer": "Liver",
+            "incorrect_answers": ["Chicken", "Steak", "Caribou"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which NBA player has the most games played over the course of their career?",
+            "correct_answer": "Robert Parish",
+            "incorrect_answers": [
+                "Kareem Abdul-Jabbar",
+                "Kevin Garnett",
+                "Kobe Bryant"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "The Indie Game Development Studio Cing, developers of Hotel Dusk and Last Window, went bankrupt on March 1st, 2010.",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What is the scientific name of the knee cap?",
+            "correct_answer": "Patella",
+            "incorrect_answers": ["Femur", "Foramen Magnum", "Scapula"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the protagonist&#039;s title given by the demons in DOOM (2016)?",
+            "correct_answer": "Doom Slayer",
+            "incorrect_answers": ["Doom Guy", "Doom Marine", "Doom Reaper"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Devil May Cry&quot; franchise, which game is chronologically first?",
+            "correct_answer": "Devil May Cry 3: Dante&#039;s Awakening ",
+            "incorrect_answers": [
+                "Devil May Cry 4",
+                "Devil May Cry",
+                "Devil May Cry 2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What is the molecular formula of the active component of chili peppers(Capsaicin)?",
+            "correct_answer": "C18H27NO3",
+            "incorrect_answers": ["C21H23NO3", "C6H4Cl2", "C13H25NO4"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What episode of &quot;Mr. Bean&quot; saw him trying to prevent people from seeing him naked?",
+            "correct_answer": "Mr. Bean in Room 426",
+            "incorrect_answers": [
+                "Mr. Bean Goes to Town",
+                "The Trouble with Mr. Bean",
+                "Back to School Mr. Bean"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Mythology",
+            "question": "What mythology did the god &quot;Apollo&quot; come from?",
+            "correct_answer": "Greek and Roman",
+            "incorrect_answers": [
+                "Roman and Spanish",
+                "Greek and Chinese",
+                "Greek, Roman and Norse"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following games was NOT included in Valve&#039;s Orange Box?",
+            "correct_answer": "Counter-Strike",
+            "incorrect_answers": [
+                "Portal",
+                "Half-Life 2: Episode Two",
+                "Team Fortress 2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "What do the 4 Rings in Audi&#039;s Logo represent?",
+            "correct_answer": "Previously independent automobile manufacturers",
+            "incorrect_answers": [
+                "States in which Audi makes the most sales",
+                "Main cities vital to Audi",
+                "Countries in which Audi makes the most sales"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The crown of the Empire State Building was originally built for what purpose?",
+            "correct_answer": "Airship Dock",
+            "incorrect_answers": ["Lightning Rod", "Antennae", "Flag Pole"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Celebrities",
+            "question": "By which name is Ramon Estevez better known as?",
+            "correct_answer": "Martin Sheen",
+            "incorrect_answers": ["Charlie Sheen", "Ramon Sheen", "Emilio Estevez"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What were the first two blocks in &quot;Minecraft&quot;?",
+            "correct_answer": "Grass and Cobblestone",
+            "incorrect_answers": [
+                "Grass and Stone",
+                "Crafting Table and Cobblestone",
+                "Cobblestone and Stone"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which band released the album &quot;Sonic Highways&quot; in 2014?",
+            "correct_answer": "Foo Fighters",
+            "incorrect_answers": ["Coldplay", "Nickelback", "The Flaming Lips"]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "An average human can go two weeks without water.",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "What was the UK &quot;Who Wants to be a Millionaire?&quot; cheating scandal known as?",
+            "correct_answer": "Major Fraud",
+            "incorrect_answers": [
+                "Ingram Cheater",
+                "Coughing Major",
+                "Millionaire Crime"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the original DOOM (1993) which of the following is NOT a cheat code?",
+            "correct_answer": "IDCLIP",
+            "incorrect_answers": ["IDFA", "IDDQD", "IDSPISPOPD"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What&#039;s the famous line Vaas says in &quot;Far Cry 3&quot;?",
+            "correct_answer": "Did I ever tell you the definition of Insanity?",
+            "incorrect_answers": [
+                "Have I failed to entertain you?",
+                "You&#039;re my b*tch!",
+                "Maybe your best course...would be to tread lightly."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Botanically speaking, which of these fruits is NOT a berry?",
+            "correct_answer": "Strawberry",
+            "incorrect_answers": ["Blueberry", "Banana", "Concord Grape"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Akatsuki&#039;s subclass in &quot;Log Horizon&quot; is what?",
+            "correct_answer": " Tracker",
+            "incorrect_answers": ["Assassin", "Scribe", "Apprentice"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following Zelda games did not feature Ganon as a final boss?",
+            "correct_answer": "Majora&#039;s Mask",
+            "incorrect_answers": [
+                "Ocarina of Time",
+                "Skyward Sword",
+                "Breath of the Wild"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The creator of the Touhou Project series is:",
+            "correct_answer": "ZUN",
+            "incorrect_answers": ["SUN", "RUN", "PUN"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which video game earned music composer Mike Morasky the most awards for his work?",
+            "correct_answer": "Portal 2",
+            "incorrect_answers": [
+                "Left 4 Dead 2",
+                "Team Fortress 2",
+                "Counter-Strike: Global Offensive"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Liam Howlett founded which electronic music group in 1990?",
+            "correct_answer": "The Prodigy",
+            "incorrect_answers": [
+                "The Chemical Brothers",
+                "The Crystal Method",
+                "Infected Mushroom"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Gadgets",
+            "question": "What are the base station trackers used for the HTC Vive called?",
+            "correct_answer": "Lighthouse",
+            "incorrect_answers": ["Motion", "Constellation ", "Trackers"]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Centripedal force is an apparent force that acts outward on a body moving around a center, arising from the body&#039;s inertia.",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+            "correct_answer": "Spider",
+            "incorrect_answers": ["Wild dog", "Monkey", "Crocodile"]
+        }
+    ],
+    "results": [{
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What does RAID stand for?",
+            "correct_answer": "Redundant Array of Independent Disks",
+            "incorrect_answers": [
+                "Rapid Access for Indexed Devices",
+                "Range of Applications with Identical Designs",
+                "Randomized Abstract Identification Description"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Approximately how many Apple I personal computers were created?",
+            "correct_answer": "200",
+            "incorrect_answers": ["100", "500", "1000"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "On which computer hardware device is the BIOS chip located?",
+            "correct_answer": "Motherboard",
+            "incorrect_answers": [
+                "Hard Disk Drive",
+                "Central Processing Unit",
+                "Graphics Processing Unit"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "The teapot often seen in many 3D modeling applications is called what?",
+            "correct_answer": "Utah Teapot",
+            "incorrect_answers": ["Pixar Teapot", "3D Teapot", "Tennessee Teapot"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Which coding language was the #1 programming language in terms of usage on GitHub in 2015?",
+            "correct_answer": "JavaScript",
+            "incorrect_answers": ["C#", "Python", "PHP"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What does the acronym CDN stand for in terms of networking?",
+            "correct_answer": "Content Delivery Network",
+            "incorrect_answers": [
+                "Content Distribution Network",
+                "Computational Data Network",
+                "Compressed Data Network"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
+            "correct_answer": "Inkscape",
+            "incorrect_answers": ["Paint.NET", "GIMP", "Adobe Photoshop"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Which internet company began life as an online bookstore called &#039;Cadabra&#039;?",
+            "correct_answer": "Amazon",
+            "incorrect_answers": ["eBay", "Overstock", "Shopify"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "When was the programming language &quot;C#&quot; released?",
+            "correct_answer": "2000",
+            "incorrect_answers": ["1998", "1999", "2001"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What does the term GPU stand for?",
+            "correct_answer": "Graphics Processing Unit",
+            "incorrect_answers": [
+                "Gaming Processor Unit",
+                "Graphite Producing Unit",
+                "Graphical Proprietary Unit"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "How many bytes are in a single Kibibyte?",
+            "correct_answer": "1024",
+            "incorrect_answers": ["2400", "1000", "1240"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What was the first commerically available computer processor?",
+            "correct_answer": "Intel 4004",
+            "incorrect_answers": ["Intel 486SX", "TMS 1000", "AMD AM386"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "How fast is USB 3.1 Gen 2 theoretically?",
+            "correct_answer": "10 Gb/s",
+            "incorrect_answers": ["5 Gb/s", "8 Gb/s", "1 Gb/s"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Which of the following languages is used as a scripting language in the Unity 3D game engine?",
+            "correct_answer": "C#",
+            "incorrect_answers": ["Java", "C++", "Objective-C"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What was the name given to Android 4.3?",
+            "correct_answer": "Jelly Bean",
+            "incorrect_answers": ["Lollipop", "Nutella", "Froyo"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "While Apple was formed in California, in which western state was Microsoft founded?",
+            "correct_answer": "New Mexico",
+            "incorrect_answers": ["Washington", "Colorado", "Arizona"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Nvidia&#039;s headquarters are based in which Silicon Valley city?",
+            "correct_answer": "Santa Clara",
+            "incorrect_answers": ["Palo Alto", "Cupertino", "Mountain View"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What five letter word is the motto of the IBM Computer company?",
+            "correct_answer": "Think",
+            "incorrect_answers": ["Click", "Logic", "Pixel"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+            "correct_answer": "&lt;marquee&gt;&lt;/marquee&gt;",
+            "incorrect_answers": [
+                "&lt;scroll&gt;&lt;/scroll&gt;",
+                "&lt;move&gt;&lt;/move&gt;",
+                "&lt;slide&gt;&lt;/slide&gt;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What was the first Android version specifically optimized for tablets?",
+            "correct_answer": "Honeycomb",
+            "incorrect_answers": ["Eclair", "Froyo", "Marshmellow"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Which one of these is not an official development name for a Ubuntu release?",
+            "correct_answer": "Mystic Mansion",
+            "incorrect_answers": ["Trusty Tahr", "Utopic Unicorn", "Wily Werewolf"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What does &quot;LCD&quot; stand for?",
+            "correct_answer": "Liquid Crystal Display",
+            "incorrect_answers": [
+                "Language Control Design",
+                "Last Common Difference",
+                "Long Continuous Design"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "When did the online streaming service &quot;Mixer&quot; launch?",
+            "correct_answer": "2016",
+            "incorrect_answers": ["2013", "2009", "2011"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "How many bits make up the significand portion of a single precision floating point number?",
+            "correct_answer": "23",
+            "incorrect_answers": ["8", "53", "15"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Laserjet and inkjet printers are both examples of what type of printer?",
+            "correct_answer": "Non-impact printer",
+            "incorrect_answers": [
+                "Impact printer",
+                "Daisywheel printer",
+                "Dot matrix printer"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "On which day did the World Wide Web go online?",
+            "correct_answer": "December 20, 1990",
+            "incorrect_answers": [
+                "December 17, 1996",
+                "November 12, 1990",
+                "November 24, 1995"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Which programming language was developed by Sun Microsystems in 1995?",
+            "correct_answer": "Java",
+            "incorrect_answers": ["Python", "Solaris OS", "C++"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "The name of technology company HP stands for what?",
+            "correct_answer": "Hewlett-Packard",
+            "incorrect_answers": ["Howard Packmann", "Husker-Pollosk", "Hellman-Pohl"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Which of these programming languages is a low-level language?",
+            "correct_answer": "Assembly",
+            "incorrect_answers": ["Python", "C#", "Pascal"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": ".rs is the top-level domain for what country?",
+            "correct_answer": "Serbia",
+            "incorrect_answers": ["Romania", "Russia", "Rwanda"]
+        }
+    ],
+
+    "Medium": [{
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Hitman: Blood Money, what is the name of the target in the mission &quot;Death of a Showman&quot;?",
+            "correct_answer": "Joseph Clarence",
+            "incorrect_answers": ["The Swing King", "Maynard John", "Manuel Delgado"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these games takes place in the Irish town of Doolin, with the option to play as one of the characters, Ellen and Keats?",
+            "correct_answer": "Folklore",
+            "incorrect_answers": [
+                "Shadow of the Colossus",
+                "ICO",
+                "Beyond Good &amp; Evil"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Musical artist, Future, collaborated with Kendrick Lamar for the song: &quot;Mask Off&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "The main antagonist of the second part of JoJo&#039;s Bizarre Adventure is which of the following?",
+            "correct_answer": "Kars",
+            "incorrect_answers": ["Erina Joestar", "Santana", "Wired Beck"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "What is the exact length of one non-curved part in Lane 1 of an Olympic Track?",
+            "correct_answer": "84.39m",
+            "incorrect_answers": ["100m", "100yd", "109.36yd"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What studio animated Fullmetal Alchemist?",
+            "correct_answer": "Bones",
+            "incorrect_answers": ["Trigger", "Pierrot", "xebec"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What year did &quot;Attack on Titan&quot; Season 2 begin airing?",
+            "correct_answer": "2017",
+            "incorrect_answers": ["2018", "2019", "2020"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which of these teams isn&#039;t a member of the NHL&#039;s &quot;Original Six&quot; era?",
+            "correct_answer": "Philadelphia Flyers",
+            "incorrect_answers": [
+                "New York Rangers",
+                "Toronto Maple Leafs",
+                "Boston Bruins"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "Which of the following is not a piece from the 1950&#039;s musical West Side Story?",
+            "correct_answer": "The Back Alley",
+            "incorrect_answers": ["Maria", "Tonight", "Mambo"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "How many bytes are in a single Kibibyte?",
+            "correct_answer": "1024",
+            "incorrect_answers": ["2400", "1000", "1240"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "When was the game &quot;Roblox&quot; released?",
+            "correct_answer": "2006",
+            "incorrect_answers": ["2003", "2002", "2007"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "In the novel &quot;Lord of the Rings&quot;, how many rings of power were given to the race of man?",
+            "correct_answer": "9",
+            "incorrect_answers": ["5", "11", "13"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Who made the discovery of X-rays?",
+            "correct_answer": "Wilhelm Conrad R&ouml;ntgen",
+            "incorrect_answers": [
+                "Thomas Alva Edison",
+                "James Watt",
+                "Albert Einstein"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which actor plays the character &quot;Tommy Jarvis&quot; in &quot;Friday the 13th: The Final Chapter&quot; (1984)?",
+            "correct_answer": "Corey Feldman",
+            "incorrect_answers": ["Macaulay Culkin", "Mel Gibson", "Mark Hamill"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Myopia is the scientific term for which condition?",
+            "correct_answer": "Shortsightedness",
+            "incorrect_answers": ["Farsightedness", "Double Vision", "Clouded Vision"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of his six wives was Henry VIII married to the longest?",
+            "correct_answer": "Catherine of Aragon",
+            "incorrect_answers": ["Anne Boleyn", "Jane Seymour", "Catherine Parr"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "What is the name of the comic about a young boy, and a tiger who is actually a stuffed animal?",
+            "correct_answer": "Calvin and Hobbes",
+            "incorrect_answers": ["Winnie the Pooh", "Albert and Pogo", "Peanuts"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "The medical condition osteoporosis affects which part of the body?",
+            "correct_answer": "Bones",
+            "incorrect_answers": ["Skin", "Brain", "Heart"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "Who was the inspiration for Cuthbert Calculus in the Tintin series?",
+            "correct_answer": "Auguste Picard",
+            "incorrect_answers": ["Jacques Piccard", "Will Morris", "J. Cecil Maby"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What date was the first flight of the P-40 Warhawk?",
+            "correct_answer": "October 14 1938",
+            "incorrect_answers": ["August 21 1939", "January 12 1940", "June 1 1939"]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "Tigers have one colour of skin despite the stripey fur.",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many stars are there to collect in Super Mario 64?",
+            "correct_answer": "120",
+            "incorrect_answers": ["60", "80", "100"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Night In The Woods, what is Mae Borowski mother&#039;s name?",
+            "correct_answer": "Candy",
+            "incorrect_answers": ["Jenny", "Margaret", "Kate"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...",
+            "correct_answer": "Year",
+            "incorrect_answers": ["Four Years", "Two Years", "Eight Years"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Pok&eacute;mon Conquest, how many kingdoms make up the region of Ransei?",
+            "correct_answer": "17",
+            "incorrect_answers": ["18", "15", "16"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Resident Evil 2&quot;, which virus was William Birkin mutated by?",
+            "correct_answer": "G-Virus",
+            "incorrect_answers": ["T-Virus", "C-Virus", "E-Virus"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;Black Lagoon&quot;, what colour is Rock&#039;s tie?",
+            "correct_answer": "Teal",
+            "incorrect_answers": ["Crimson", "Dark Brown", "Black"]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "TF2: The Heavy&#039;s voice actor, Gary Schwartz, voices the Demoman as well ",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which of the following is NOT a passive electrical component?",
+            "correct_answer": "Transistor",
+            "incorrect_answers": ["Resistor", "Capacitor", "Inductor"]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "&quot;Return to Castle Wolfenstein&quot; was the only game of the Wolfenstein series where you don&#039;t play as William &quot;B.J.&quot; Blazkowicz.",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
+        }
+    ],
+    "End": [{ "name": "User1", "id": 1 }]
+}
